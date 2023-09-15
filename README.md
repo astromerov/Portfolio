@@ -1,4 +1,4 @@
-## ⚛️ React portfolio
+## ⚛️ Portfolio made using 3 different languages
 <strong>My personal website that is under construction.</strong>
 
 <div align="center">
