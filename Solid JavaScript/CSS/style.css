@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Back Home'; /* Give your font a name */
+    src: url('../Assets/fonts/Sohne%20Font/TestSöhne-BuchKursiv.otf') format('truetype'); /* Corrected URL path */
+}
+
+/* Reset some default styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'TestSöhne-BuchKursiv', sans-serif; /* Use the font-family you defined */
+
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000; /* Ensure the navbar is above other content */
+}
+
+/* Define styles for the main content container */
+.container {
+    margin-top: 60px; /* To push the content below the navbar */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Style the left div */
+.left-div {
+    width: 60%;
+    background-color: #f0f0f0;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px; /* Add rounded borders */
+}
+
+/* Style the right div */
+.right-div {
+    width: 30%;
+    background-color: #f0f0f0;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px; /* Add rounded borders */
+}
+
+.rhombus img {
+    width: 60%;
+    height: 100px;
+    object-fit: cover; /* Ensure the image covers the entire rhombus */
+    margin-left: 500px;
+}
