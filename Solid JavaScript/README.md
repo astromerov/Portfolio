@@ -12,7 +12,11 @@
 ### 🎯 Purpose
 <div>
   <p>
-    While there are tons of materials and tutorials, I felt that systematic training contributes to the desired impact
+    While there are tons of materials and tutorials, I felt that systematic training contributes to the desired impact.
+    HTML is really easy to learn, however, when it comes to learning about <strong>CSS</strong> such as flexbox, border etc,
+    the situations get complex. On the other hand, JavaScript is just literally not easy to learn, whether your learn the fundamentals or
+    the concept, without applying them by building something, it is just like a rocket science for a complete noobie.
+    
   </p>
 </div>
 
