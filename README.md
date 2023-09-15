@@ -1,4 +1,4 @@
-## ⚛️ Portfolio made using 3 different languages
+## ⚛️ React · TypeScript · HTML Portfolio
 <strong>My personal website that is under construction.</strong>
 
 <div align="center">
